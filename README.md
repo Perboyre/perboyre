@@ -1,3 +1,5 @@
+
+
 <h1 align="left">Hi there!👾</h1>
  
  > Me chamo Juan Perboyre, muito Prazer!
@@ -17,6 +19,14 @@
   <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juan-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
+
+<h3>🖌️ | Design</h3>
+
+<div align="left">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"  alt="aftereffects logo"  />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"  alt="photoshop logo"  />
+    </div>
 
 ###
 
